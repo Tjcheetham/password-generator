@@ -1,0 +1,16 @@
+#password {
+    width: 100%;
+    height: 200px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+#password-btn {
+    margin-left: 370px;
+}
